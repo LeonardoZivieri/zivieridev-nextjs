@@ -11,9 +11,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Em construção
         </h1>
-
+         
+        <!--
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
@@ -60,6 +61,7 @@ export default function Home() {
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
+      -->
     </div>
   )
 }
